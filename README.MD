@@ -42,7 +42,7 @@
 
 
 <a href="https://www.XFernando43.dev/" target="_blank"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=XFernando43.visitor-badge.issue.1" /></a>
-[![GitHub XFernando43](https://img.shields.io/github/followers/XFernando43?label=follow&style=social)](https://github.com/XFernando43)
+
 
 
 
