@@ -32,9 +32,5 @@
 ![cool gif](https://github.githubassets.com/images/mona-whisper.gif)
 
 
-
-
-<img src="https://komarev.com/ghpvc/?username=adandev1125&label=Profile%20views&color=4e982f&style=for-the-badge" alt="adandev1125" />
-
 <a href="https://www.kevincarlosqa.dev/" target="_blank"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kevincarlosqa.visitor-badge.issue.1" /></a>
 [![GitHub Kevin Quispe](https://img.shields.io/github/followers/Kevincarlosqa?label=follow&style=social)](https://github.com/Kevincarlosqa)
