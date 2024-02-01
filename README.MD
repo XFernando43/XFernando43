@@ -41,8 +41,7 @@
 ![cool gif](https://github.githubassets.com/images/mona-whisper.gif)
 
 
-<a href="https://www.kevincarlosqa.dev/" target="_blank"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kevincarlosqa.visitor-badge.issue.1" /></a>
-[![GitHub Kevin Quispe](https://img.shields.io/github/followers/Kevincarlosqa?label=follow&style=social)](https://github.com/Kevincarlosqa)
+<a href="https://www.XFernando43.dev/" target="_blank"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=XFernando43.visitor-badge.issue.1" /></a>
 
 
 
