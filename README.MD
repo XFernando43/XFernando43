@@ -3,6 +3,9 @@
 </h1>
 <h3 align="center">Passionate FullStack Developer fascinated by Technology</h3>
 
+<h3 align="center">「 A Passionate <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&center=true&pause=500&vCenter=true&width=90&height=14&duration=4000&lines=Frontend;Backend;Full+Stack" /> Developer from <b>Peru</b></h3>
+
+
 <p align="center">
   <a href="mailto:fernandorar65@gmail.com"><img src="https://img.shields.io/badge/-Email-9cf?style=flat-square&logo=gmail" alt="Email"></a>
   <!-- Add links to your social media profiles if you wish -->
