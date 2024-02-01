@@ -1,21 +1,4 @@
 <h1 align="center">Hello <span id="animated-text">👋, I'm Fernando Aquino</span></h1>
-<style>
-  @keyframes slideIn {
-    0% {
-      transform: translateX(-50px);
-      opacity: 0;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-
-  #animated-text {
-    display: inline-block;
-    animation: slideIn 1s ease-in-out;
-  }
-</style>
 <h3 align="center">Passionate FullStack Developer fascinated by Technology</h3>
 
 <p align="center">
@@ -48,3 +31,21 @@
 
 
 
+
+<style>
+  @keyframes slideIn {
+    0% {
+      transform: translateX(-50px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  #animated-text {
+    display: inline-block;
+    animation: slideIn 1s ease-in-out;
+  }
+</style>
