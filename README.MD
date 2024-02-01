@@ -1,3 +1,4 @@
+<a href="https://www.XFernando43.dev/" target="_blank"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=XFernando43.visitor-badge.issue.1" /></a>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fernando+Aquino!;&color=90EE90" />
 </h1>
@@ -36,12 +37,13 @@
 
 
 
-
+<p align="center">
 
 ![cool gif](https://github.githubassets.com/images/mona-whisper.gif)
 
+</p>
 
-<a href="https://www.XFernando43.dev/" target="_blank"> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=XFernando43.visitor-badge.issue.1" /></a>
+
 
 
 
